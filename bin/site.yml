@@ -1,0 +1,18 @@
+site: 'http://'
+external-links:
+  facebook: ''
+  twitter: ''
+  linkedin: ''
+hosting: '' # Client / Crio
+access:
+  type: '' # FTP / SSH
+  url: ''
+  username: ''
+  password: ''
+database:
+  host: 'localhost'
+  username: ''
+  password: ''
+analytics:
+  provider: 'Google Analytics'
+  account: '' # Client / Crio
