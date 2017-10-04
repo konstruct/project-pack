@@ -1,0 +1,17 @@
+
+colors:
+  red: '#000000'
+  red: '#000000'
+  red: '#000000'
+  red: '#000000'
+
+typography:
+  headings:
+    h1: ''
+    h2: ''
+    h3: ''
+    h4: ''
+    h5: ''
+    h6: ''
+  paragraphs: ''
+  list: ''
